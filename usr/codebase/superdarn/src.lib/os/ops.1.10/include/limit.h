@@ -19,7 +19,7 @@
 #define ORIGIN_COMMAND_SIZE 128
 #define PULSE_SIZE 64    
 #define LAG_SIZE 96            
-#define MAX_RANGE 300
+#define MAX_RANGE 800
 #define COMBF_SIZE 80       
 #define MAX_BEAM 255
 #define MAXNAVE 300
